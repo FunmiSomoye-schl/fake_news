@@ -28,6 +28,10 @@ The following algorithms were evaluated:
 
 Large language model were then explored to evaluate performance. GPT 3.5 Turbo and GPT 4 were both accessed through Azure OpenAI API. Llama 3 was accessed through Groq.
 
+#### Llama 3 on Groq
+<img src="img/Llama3.png" style="width:600px; height:280px;"/>
+
+
 ## Results
 
 #### SVC on Validation Set
